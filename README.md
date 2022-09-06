@@ -1,11 +1,11 @@
 ### Hi there, I'm Matheus Rocha 👋
 
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRocha1&show_icons=true&theme=radical)
+
 ### Contacts
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rocha-690158166/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailTo:matheusmrp36@hotmail.com)
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusRocha1&show_icons=true&theme=radical)
 
 ## Technologies
 
