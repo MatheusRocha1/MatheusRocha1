@@ -21,6 +21,7 @@
   <img align="center" style="height:20px;background:#96bf48; padding: 5px" alt="reactjs" src="https://cdn.shopify.com/static/imagery-landing/shopify_monotone_white.svg"/>
 </div>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
